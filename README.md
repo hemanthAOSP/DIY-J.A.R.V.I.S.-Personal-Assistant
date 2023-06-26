@@ -16,5 +16,4 @@ sampling rate = 16000hz
 audio channels = mono
 pcm format = unsigned 8bit
 
-
                            
