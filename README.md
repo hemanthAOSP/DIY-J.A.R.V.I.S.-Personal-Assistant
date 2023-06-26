@@ -4,6 +4,7 @@ components used
 2. Voice Recognition Module RC-A-521
 3. SD CARD READER
 4. RELAY MODULE
+   
 Connect the UNO with the sd card reader with respective data pins
 similarly connect voice recognition module with RX and TX and give 5v power through vcc and gnd for both modules
 now allign the digital pins from UNO and connect to relay, voice module, sd card reader
